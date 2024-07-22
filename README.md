@@ -11,9 +11,9 @@ A simple weather application built with Flutter that provides current weather in
 
 ## Screenshots
 
-![Home Screen](screenshots/home_screen.png)
-![Search Screen](screenshots/search_screen.png)
-![Weather Details](screenshots/weather_details.png)
+![Home Screen](assets/images/homescreen.jpg)
+![Search Screen](assets/images/searchScreen.jpg)
+![Weather Details](assets/images/weather.jpg)
 
 ## Getting Started
 
