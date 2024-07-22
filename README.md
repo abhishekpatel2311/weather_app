@@ -1,16 +1,30 @@
-# weather_app
+# Weather App
 
-A new Flutter project.
+A simple weather application built with Flutter that provides current weather information for any location.
+
+## Features
+
+- Get current weather information based on the user's location.
+- Search for weather information by city name.
+- Display weather details including temperature, humidity, wind speed, and weather conditions.
+- Beautiful UI with weather icons and animations.
+
+## Screenshots
+
+![Home Screen](screenshots/home_screen.png)
+![Search Screen](screenshots/search_screen.png)
+![Weather Details](screenshots/weather_details.png)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
+- A code editor like VS Code or Android Studio
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/yourusername/weather_app.git
+   cd weather_app
